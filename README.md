@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @L-Jun-Jie
+- 👋 Hi, I’m **Junjie Li**
 - 🔭 I’m currently studying on **Jilin University**
 - 👀 I’m interested in **SFormal Verification, SMT Solving and Sampling**
 - 📫 How to contact me: 
